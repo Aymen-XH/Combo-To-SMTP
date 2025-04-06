@@ -24,7 +24,8 @@ A simple tool that converts email:password combos into formatted SMTP credential
 📦 Output
 ---------
 Your results will be saved in:
-smtp_credentials.txt
+
+`smtp_credentials.txt`
 
 Format:
 `smtp.server.com:port:email:password`
