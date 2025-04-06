@@ -27,7 +27,7 @@ Your results will be saved in:
 smtp_credentials.txt
 
 Format:
-smtp.server.com:port:email:password
+`smtp.server.com:port:email:password`
 
 📘 Example Combo Input
 ----------------------
